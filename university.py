@@ -86,3 +86,6 @@ def user_with_department(output_csv_path, users_json_path, departments_json_path
         writer.writeheader()
         for row in output_rows:
             writer.writerow(row)
+
+
+user_with_department("output.csv", "user.json", "department.json")

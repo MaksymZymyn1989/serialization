@@ -1,0 +1,6 @@
+name,department
+userName,Dep 1
+userName2,Dep 1
+userName3 From Dep 2,Dep 2
+userName4 from Dep 1,Dep 1
+userName4 without Dep,Dep 2
